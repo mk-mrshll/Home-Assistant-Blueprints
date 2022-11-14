@@ -105,7 +105,7 @@ blueprint:
       selector:
         action: {}
   source_url: https://community.home-assistant.io/t/zooz-ZEN77/322433
-mode: single
+mode: queued
 max_exceeded: silent
 trigger:
 - platform: event
