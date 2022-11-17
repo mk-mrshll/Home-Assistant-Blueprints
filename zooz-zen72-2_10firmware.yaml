@@ -4,7 +4,7 @@ blueprint:
     JS integration, on the 2.10 firmware.
   domain: automation
   input:
-    zooz_ZEN77:
+    zooz_ZEN72:
       name: Zooz ZEN72
       description: The ZEN72 Switch to interact with.
       selector:
